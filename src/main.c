@@ -6,7 +6,7 @@
 /*   By: arforouz <arforouz@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/20 17:33:25 by arforouz          #+#    #+#             */
-/*   Updated: 2023/05/22 13:42:00 by arforouz         ###   ########.fr       */
+/*   Updated: 2023/05/24 12:59:41 by arforouz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,7 @@ static void	init_game(t_game *game, char *file)
 }
 
 // void	ft_leaks()
-// {
+// {//wici solongi??
 // 	system("leaks so_long");
 //	atexit(ft_leaks);
 // }
